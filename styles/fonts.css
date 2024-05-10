@@ -1,0 +1,27 @@
+@font-face {
+    font-family: 'Montserrat bold';
+    src: url(fonts/Montserrat/Montserrat-Bold.ttf);
+}
+
+@font-face {
+    font-family: 'Montserrat extraLight';
+    src: url(fonts/Montserrat/Montserrat-ExtraLight.ttf);
+}
+
+@font-face {
+    font-family: 'Montserrat Regular';
+    src: url(fonts/Montserrat/Montserrat-Regular.ttf);
+}
+
+
+@font-face {
+    font-family: 'Roboto';
+    src: url(fonts/Roboto/RobotoCondensed-VariableFont_wght.ttf);
+}
+
+
+@font-face {
+    font-family: 'Roboto Light';
+    src: url(fonts/static/RobotoCondensed-Light.ttf);
+}
+
